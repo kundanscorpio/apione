@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.britishgas.apione.ApioneApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 2.513 sec - in com.britishgas.apione.ApioneApplicationTests
