@@ -20,8 +20,8 @@ The output of the curl command will be :
 ```
 {
 	"messages": [
-		"From caller two: I got your call.",
-		"Initial call received by node one, other node is called and returning now"
+		"From apitwo: I got your call.",
+		"Initial call received by apione, other api is called and returning now"
 	]
 }
 ```
